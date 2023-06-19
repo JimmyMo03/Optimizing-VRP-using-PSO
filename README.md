@@ -1,5 +1,3 @@
-# Optimizing-VRP-using-PSO
-
 # VRP Solver using PSO
 This project is an implementation of a solution to the vehicle routing problem (VRP) using particle swarm optimization (PSO) algorithm. The VRP is a combinatorial optimization problem that involves finding the optimal route for a fleet of vehicles to service a set of customers, subject to capacity and distance constraints.
 
